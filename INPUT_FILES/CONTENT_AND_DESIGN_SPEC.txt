@@ -1,0 +1,49 @@
+BETTER WEB DIGEST — NOVEMBER 2026 EMAIL SPECIFICATION
+Campaign: The Accessibility Issue
+Audience: digital product teams, educators and nonprofit communicators
+Voice: approachable, informed, practical; no exaggerated claims
+Subject line: Three ways to make your website clearer
+Preheader: Better images, more usable menus and clearer writing.
+
+BRAND
+Primary navy #142D3C | Teal #177E80 | Mint #E4F3EF | Warm gold #EAB563 | Gray #62737C | White #FFFFFF
+Font stack: Arial, Helvetica, sans-serif. Email-safe fallback; approximate visual-reference weight with bold text.
+Email container: max 600px, white on #E9F0EF outer background, 28px side padding on desktop, 18px mobile.
+Header 100px tall; hero image approx 540px wide and fluid; body sections stacked with 16px vertical separation.
+Responsive widths to inspect: 320px, 375px, 768px, 1200px. Use table-based email structure, inline CSS, no external CSS or CSS grid/flexbox. Retain meaningful reading order. Do not assume media queries work in every client.
+Image delivery: submit local PNG assets for inspection; for delivered emails images must resolve through authorized HTTPS hosting or another supported email-asset mechanism. Local file paths alone are not email-safe.
+
+FULL EMAIL COPY
+Brand: BETTER WEB DIGEST — THE MONTHLY DIGEST
+Eyebrow: THE ACCESSIBILITY ISSUE · NOVEMBER 2026
+Hero headline: Make the web work for everyone.
+Hero body: Three practical improvements to create clearer, more inclusive digital experiences.
+Hero CTA label: EXPLORE THE GUIDE
+Hero CTA URL: https://www.w3.org/WAI/tips/writing/
+Section label: INSIDE THIS EDITION
+Section 1 heading: Images that speak clearly
+Section 1: Write useful alternatives for images so meaning is available beyond the visual.
+Section 1 CTA: Explore image guidance
+Section 1 URL: https://www.w3.org/WAI/tutorials/images/
+Section 2 heading: Navigation without guesswork
+Section 2: Build menus that remain understandable with a keyboard and assistive technology.
+Section 2 CTA: Explore menu guidance
+Section 2 URL: https://www.w3.org/WAI/tutorials/menus/
+Section 3 heading: Words everyone can use
+Section 3: Give people headings, link labels and instructions that help them act with confidence.
+Section 3 CTA: Explore writing tips
+Section 3 URL: https://www.w3.org/WAI/tips/writing/
+Footer: Thoughtful ideas for more inclusive digital experiences.
+Editorial contact: hello@betterweb.example (display-only editorial contact, not a monitored mailbox)
+Footer note: You're receiving this newsletter because you subscribed to Better Web Digest.
+Unsubscribe: use a configurable recipient-specific unsubscribe URL when connecting to an actual email sending platform; do not invent a live unsubscribe destination.
+
+ALT TEXT RECOMMENDATIONS
+brand_mark.png: Better Web Digest logo
+hero_accessible.png: Browser window showing an accessible checked content panel
+feature_images.png: Sample content card with clear image description area
+feature_menus.png: Three-row keyboard-friendly navigation menu illustration
+feature_writing.png: Document with text lines and a pencil
+
+TESTING
+Document tested email client/version, rendering method, screen width, actual result, evidence filename and workarounds. Record NOT_TESTED for unavailable actual email clients. Browser viewport checks alone do not prove Outlook or Apple Mail compatibility.

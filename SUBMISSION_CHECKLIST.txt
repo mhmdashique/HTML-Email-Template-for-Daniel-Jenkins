@@ -1,0 +1,8 @@
+SUBMISSION — ONE GOOGLE DRIVE FOLDER, REVIEWER VIEWER ACCESS
+[ ] newsletter.html — complete single-file table-based HTML email with inline CSS
+[ ] images/ — optimized PNG files used in completed newsletter
+[ ] CLIENT_TEST_MATRIX.csv — actual tests and honest NOT_TESTED entries
+[ ] TECHNICAL_SUMMARY.md or PDF — implementation approach, actual client results and any deviations
+[ ] COMPLETION_NOTE.txt — short list of deliverables, test coverage and final HTML size
+[ ] All four CTA links checked and the email's image-hosting method documented
+[ ] One Google Drive folder URL provided to the authorized reviewer with Viewer permission

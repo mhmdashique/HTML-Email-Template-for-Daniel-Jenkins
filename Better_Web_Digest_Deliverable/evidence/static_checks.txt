@@ -1,0 +1,28 @@
+=== STATIC VERIFICATION REPORT ===
+File: deliverables\newsletter.html
+Size: 15988 bytes (15.61 KB) - well under 100 KB limit: PASS
+No <style> tag: PASS (None found)
+No <script> tag: PASS (None found)
+No rel="stylesheet": PASS (None found)
+No display:grid: PASS (None found)
+No display:flex: PASS (None found)
+Table count: 23
+role="presentation" count: 23 (Every table has role="presentation": PASS)
+Images without alt: 0 - PASS
+  - Image src="images/brand_mark.png" alt="Better Web Digest logo"
+  - Image src="images/hero_accessible.png" alt="Browser window showing an accessible checked content panel"
+  - Image src="images/feature_images.png" alt="Sample content card with clear image description area"
+  - Image src="images/feature_menus.png" alt="Three-row keyboard-friendly navigation menu illustration"
+  - Image src="images/feature_writing.png" alt="Document with text lines and a pencil"
+Image src file existence check in deliverables/:
+  - images/brand_mark.png: EXISTS (PASS)
+  - images/hero_accessible.png: EXISTS (PASS)
+  - images/feature_images.png: EXISTS (PASS)
+  - images/feature_menus.png: EXISTS (PASS)
+  - images/feature_writing.png: EXISTS (PASS)
+All four CTA hrefs found and matching LINK_REGISTER: PASS
+  - CTA 1: https://www.w3.org/WAI/tips/writing/
+  - CTA 2: https://www.w3.org/WAI/tips/writing/
+  - CTA 3: https://www.w3.org/WAI/tutorials/images/
+  - CTA 4: https://www.w3.org/WAI/tutorials/menus/
+  - CTA 5: https://www.w3.org/WAI/tips/writing/

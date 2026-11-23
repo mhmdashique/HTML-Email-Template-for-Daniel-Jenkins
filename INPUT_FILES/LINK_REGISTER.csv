@@ -1,0 +1,5 @@
+ID,Placement,Label,HTTPS_URL,Intent
+L01,Hero,EXPLORE THE GUIDE,https://www.w3.org/WAI/tips/writing/,Writing accessibility tips
+L02,Section 1,Explore image guidance,https://www.w3.org/WAI/tutorials/images/,Image alternative text guidance
+L03,Section 2,Explore menu guidance,https://www.w3.org/WAI/tutorials/menus/,Accessible menu structure
+L04,Section 3,Explore writing tips,https://www.w3.org/WAI/tips/writing/,Accessible writing tips

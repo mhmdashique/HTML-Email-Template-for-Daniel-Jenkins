@@ -1,0 +1,13 @@
+Test_ID,Environment,Viewport,Check,Result_PASS_FAIL_NOT_TESTED,Actual_Observation,Evidence_File,Date,Workaround
+T01,Browser Chromium,320,No horizontal scroll,,,,,
+T02,Browser Chromium,375,Text and images wrap,,,,,
+T03,Browser Chromium,768,Centered 600px container,,,,,
+T04,Browser Chromium,1200,Centered max-width container,,,,,
+T05,Gmail Web,Desktop,Links/images/spacing,,,,,
+T06,Gmail mobile,375,Single-column readability,,,,,
+T07,Outlook Windows classic,Desktop,"Table layout, fonts, spacing",,,,,
+T08,Outlook Web,Desktop,Buttons and links,,,,,
+T09,Apple Mail macOS,Desktop,Image scaling and alt text,,,,,
+T10,Apple Mail iOS,375,"Single-column, images",,,,,
+T11,HTML static inspection,N/A,All CSS inline; no external CSS,,,,,
+T12,HTML static inspection,N/A,"Full copy, alt text, CTA URLs and footer",,,,,

@@ -1,0 +1,25 @@
+BETTER WEB DIGEST — RESPONSIVE EMAIL IMPLEMENTATION
+Job ID: 88owrQecuP7DRHL7Ug3h
+Deadline: 22 November 2026 | Confirmed compensation: INR 717 | Duration: 1 business day
+
+Objective: Implement the supplied desktop and mobile newsletter designs as one responsive, email-compatible HTML document using inline styling.
+
+INPUT FILES
+- INPUT_FILES/DESIGN_REFERENCES/desktop_1440.png
+- INPUT_FILES/DESIGN_REFERENCES/mobile_375.png
+- INPUT_FILES/IMAGE_ASSETS/ (five separate original PNG assets plus editable SVGs)
+- INPUT_FILES/CONTENT_AND_DESIGN_SPEC.txt (complete newsletter copy and style rules)
+- INPUT_FILES/LINK_REGISTER.csv (four HTTPS CTA entries)
+- INPUT_FILES/HTML_STARTER/starter.html (unfinished starter structure)
+- INPUT_FILES/CLIENT_TEST_MATRIX.csv and TECHNICAL_REPORT_TEMPLATE.md
+
+WORK STEPS
+1. Review desktop/mobile layouts, image artwork, complete copy and the link register.
+2. Expand starter.html into a complete table-based single-column email, keeping a maximum width of 600px and semantic content where supported.
+3. Use inline CSS exclusively, email-safe fonts, descriptive image alt text, and all approved CTA links; provide viable hosted-image paths for real email delivery.
+4. Verify responsive presentation at 320px, 375px, 768px and 1200px, and test actual email clients where accessible.
+5. Record real results in CLIENT_TEST_MATRIX.csv. Mark unavailable clients NOT_TESTED and explain compatibility limitations.
+6. Check links, final HTML size, spelling, visual fidelity, older-client behavior and missing assets. Prepare the technical report.
+7. Submit final newsletter.html, optimized PNG assets, completed test matrix, technical report and COMPLETION_NOTE.txt in a single Google Drive folder with authorized reviewer Viewer access.
+
+CHECKS: No external/internal CSS sheets or JS; no flex/grid for layout; all content and image alt text included; no broken images; responsive; compatible graceful degradation; report only actual client tests.
